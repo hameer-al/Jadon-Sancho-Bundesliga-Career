@@ -1,7 +1,8 @@
 # Jadon-Sancho-Bundesliga 20/21
-Important stats from Jadon Sancho's 20/21 season in the Bundesliga. Stats include: xT, pass completion, progressive passes, etc.
+##### Important stats from Jadon Sancho's 20/21 season in the Bundesliga. Stats include: xT, pass completion, progressive passes, etc.
 
-File info:
+### Games analyzed: 34
+##### File info:
 
 1. Pass_maps_bundeliga.ipynb: Code Jadon Sancho's passing stats from the 20/21 Bundesliga season (a summary of results is present in the file)
 2. Sancho Bundesliga xT.ipynb: Code for Jadon Sancho's xT stats from the 20/21 Bundesliga season (a summary of results is present in the file)
