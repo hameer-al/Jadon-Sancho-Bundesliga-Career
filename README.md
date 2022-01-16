@@ -4,7 +4,7 @@
 ### Games analyzed: 34
 ##### File info:
 
-1. Pass_maps_bundeliga.ipynb: Code Jadon Sancho's passing stats from the 20/21 Bundesliga season (a summary of results is present in the file)
+1. Pass_maps_bundeliga.ipynb: Code for Jadon Sancho's passing stats from the 20/21 Bundesliga season (a summary of results is present in the file)
 2. Sancho Bundesliga xT.ipynb: Code for Jadon Sancho's xT stats from the 20/21 Bundesliga season (a summary of results is present in the file)
 3. xT_map.xlsx: the map used to caluclate xThreat
 4. sancho_bundeliga.csv: CSV file that contains all the event data (cleaned) for Jadon Sancho's actions in the 20/21 Bundesliga season.
